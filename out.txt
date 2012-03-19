@@ -1,0 +1,12 @@
+Manufactorer: GenuineIntel
+ProcessorModel: 10
+ProcessorType: 0
+RAMsize: 6144 MB
+BegCylinder0: 12
+EndCylinder0: 1023
+BegCylinder1: 1023
+EndCylinder1: 1023
+BegCylinder2: 0
+EndCylinder2: 0
+BegCylinder3: 0
+EndCylinder3: 0
